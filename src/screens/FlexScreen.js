@@ -7,7 +7,7 @@ const FlexScreen = () => {
         <View style={styles.viewStyle}>
             <Text style={styles.textStyle}>FlexScreen</Text>
             <Text style={styles.textStyle}>FlexScreen</Text>
-            <Text style={styles.textStyle}>FlexScreen</Text>
+            <Text style={styles.textStyle}>bnbnb</Text>
         </View>
     )
 };
